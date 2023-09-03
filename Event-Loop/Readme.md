@@ -1,5 +1,7 @@
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--0TQg9sD0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ek7ji4zrimozpp2yzk0a.png)
 
+# ✨♻️ JavaScript Visualized: Event Loop
+
 
 ও মোর খোদা ! সেই ইভেন্ট লুপ! এটা সেই জিনিস যেটা সকল জাভাস্ক্রিপ্ট ডেভেলপারকে কোন না কোন সময় কোন না কোন ভাবে কাজ করতেই হয়। কিন্তু শুরুতে এটা বোঝা কিছুটা কনফিউজিং! আমি কিছু বুঝতে হলে ভিজুয়ালি বুঝি। তাই ভাবলাম আপনাদের এটা ভিজুয়ালি বুঝানোর চেষ্টা করব। কিন্তু কি দিয়ে বুঝাব? লো রেজুলেশন gif দিয়ে, কারণ এটা ২০১৯ সাল এবং gif গুলো এখনও pixelated আর ঝাপসা!  
 
