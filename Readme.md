@@ -9,7 +9,7 @@ This is a translation of a 7-part series blog written by the great Lydia Hallie.
 
 1. [Event loop](Event-Loop/Readme.md)
 2. [Hoisting](Hoisting/Readme.md)
-3. [Scope(Chain)](Scope(chain)/Readme.md)
+3. [Scope(Chain)](Scope(chain)/)
 4. The JavaScript Engine(In progress)
 5. [Prototypal Inheritance(In progress)](Prototypical-Inheritance/Readme.md)
 6. Generators And Iterators(In progress)
