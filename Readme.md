@@ -1,7 +1,7 @@
 
 # What is this?
 
-This is a translation of a 7 part series blog written by the great Lydia Hallie. She is one the best blogger I have ever known. Her visualization technique to explain complex programming topics is mind blowing. You can find details about her [here](https://www.lydiahallie.io/)
+This is a translation of a 7-part series blog written by the great Lydia Hallie. She is one of the best bloggers I have ever known. Her visualization technique to explain complex programming topics is mind-blowing. You can find details about her [here](https://www.lydiahallie.io/)
 
 
 ## JavaScript Visualized(Bangla)
@@ -19,13 +19,13 @@ This is a translation of a 7 part series blog written by the great Lydia Hallie.
 
 # Why is this?
 
-There are lots of funny, interesting and well written programming books and blogs out there on the internet. But unfortunately many programmers in Bangladesh don't get to taste those resources only because of language barrier! It makes me sad. So I decided to translate them into Bangla one by one until I die. 
+There are lots of funny, interesting, and well-written programming books and blogs out there on the internet. But unfortunately, many programmers in Bangladesh don't get to taste those resources only because of language barrier! It makes me sad. So I decided to translate them into Bangla one by one until I die. 
 
 Apart from philanthropy, there is one hidden reason! That is, I was preparing for my interview! What could be any better way than translating an  amazing blog?
 
 # Who am I? 
 
-I am Ibtesum Reza Aninda, a noob programmer(may be not!) who loves to spend his leisure time searching interesting blogs and books. I love podcasts and watching series. That's it. I won't tell anymore about me. 
+I am Ibtesum Reza Aninda, a noob programmer who loves to spend his leisure time searching interesting blogs and books. I love podcasts and watching series. That's it. I won't tell any more about me. 
 
 **Tools:**
 1. Obsidian
