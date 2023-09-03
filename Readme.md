@@ -17,6 +17,8 @@ This is a translation of a 7-part series blog written by the great Lydia Hallie.
 
 [**Link of Original English Articles**](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
+[**Edit in Github**](https://github.com/Ibtesum/javascript-visualized/tree/main)
+
 
 # Why is this?
 
