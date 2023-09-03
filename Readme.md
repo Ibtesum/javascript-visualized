@@ -3,6 +3,7 @@
 
 This is a translation of a 7-part series blog written by the great Lydia Hallie. She is one of the best bloggers I have ever known. Her visualization technique to explain complex programming topics is mind-blowing. You can find details about her [here](https://www.lydiahallie.io/)
 
+### [Link to the live site for better readability](https://ibtesum.github.io/javascript-visualized/)
 
 ## JavaScript Visualized(Bangla)
 
